@@ -1,0 +1,12 @@
+body {
+    background-image: url("./images/pixel-heart.png");
+
+}
+
+h1 {
+  font-family: monospace;
+  margin: 100px 30px 40px 80px;
+  padding-left: 50px;
+  font-weight: 400;
+  text-align: center;
+}
